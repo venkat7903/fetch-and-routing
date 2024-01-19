@@ -1,5 +1,7 @@
 In this project, let's perform **Fetch and Routing** by applying the concepts we have learned till now.
 
+project link - https://fetchapitoroute.ccbp.tech/
+
 ### Refer to the image below:
 
 <br/>
